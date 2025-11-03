@@ -1,0 +1,10 @@
+{
+  "name": "BushyFamCoin",
+  "symbol": "BFC",
+  "description": "BushyFamCoin ist der offizielle Community Token von BushyFam Studios auf Solana.",
+  "image": "https://raw.githubusercontent.com/snopebushyfam/bushyfamcoin-metadata/main/Untitled_design_-_2.png",
+  "extensions": {
+    "website": "https://bushyfam.com",
+    "twitter": "https://twitter.com/BushyFam"
+  }
+}
